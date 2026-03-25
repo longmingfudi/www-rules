@@ -3,7 +3,11 @@ DOMAIN-SUFFIX,wogg.xxooo.cf
 DOMAIN-SUFFIX,666.666291.xyz
 DOMAIN-SUFFIX,muou.site
 DOMAIN-SUFFIX,muou.asia
-
+DOMAIN-SUFFIX,emby.yun
+DOMAIN-SUFFIX,kstore.cc
+DOMAIN-SUFFIX,.xyz
+DOMAIN-SUFFIX,vban.xyz
+DOMAIN-SUFFIX,embymv.link
 # === 蜡笔 ===
 DOMAIN-SUFFIX,xiaocgege.shop
 DOMAIN-SUFFIX,fmao.shop
@@ -21,10 +25,10 @@ DOMAIN-SUFFIX,zhizhen1.top
 DOMAIN-SUFFIX,tv.214521.xyz
 DOMAIN-SUFFIX,tv.yydsys.top
 DOMAIN-SUFFIX,yydsys.de5.net
-
+DOMAIN-SUFFIX,shrekmedia.org
 # === 欧哥 ===
 DOMAIN-SUFFIX,woog.nxog.eu.org
-
+DOMAIN,q8dg.65194798.xyz
 # === 二小 ===
 DOMAIN-SUFFIX,www.2xiaopan.top
 DOMAIN-SUFFIX,www.erxiaozhan.top
@@ -38,6 +42,9 @@ DOMAIN-SUFFIX,xsayang.fun
 
 # === 兜底关键词（防换域名）===
 DOMAIN-KEYWORD,muou
+DOMAIN-KEYWORD,ixigua
+
+DOMAIN-KEYWORD,lilyemby
 DOMAIN-KEYWORD,xiaocge
 DOMAIN-KEYWORD,yydsys
 DOMAIN-KEYWORD,xiaopan
