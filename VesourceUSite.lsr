@@ -6,8 +6,10 @@ DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,digimon.ink
-
-
+DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,missav.ai
 DOMAIN-KEYWORD,okemby
 DOMAIN-KEYWORD,tmdb
 
