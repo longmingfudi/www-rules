@@ -1096,12 +1096,6 @@ https://cdn6.163189.xyz/163189/wxxw
 https://cdn.163189.xyz/163189/now
 #EXTINF:-1 group-title="港台頻道" ,PopC
 http://mytvsuper.webn.cc:2052/stream/mytv/popc/master.m3u8?u=yhy&p=447c04d6fbd1b6db532939627946d3ee4532fbe69a842ccfe439df51e0fff326
-#EXTINF:-1 group-title="港台頻道" ,PopC
-http://tl.061833.xyz/tl/popc
-#EXTINF:-1 group-title="港台頻道" ,寰宇新聞台湾
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUdt63uRz89giBm7SDjL0rvx6mPFYFBkkZvn9WFnIWrnrmw-PJg94VdaIFjhKLLslS3hVgt8K1Gxhccp_R67ZRq_HQNtWBy3po4j7bv2IwqnZT9T8D5Ef3z7y9ybvoYR_r9iPLH8ejARDMhF9S1XKesCvpRSuc2dxQIegka38FuTXru3e7plTyOLICLjP8wL2__-kVV5BF8U8VV7BewaGHGdqMycRKCnq0nX0iQk4S_Kk.m3u8?u=1756878715
-#EXTINF:-1 group-title="港台頻道" ,寰宇新聞
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUrjtaa4Sm6Zqst6X8-oz1Y-yX5WxfP9t3MAsEacmoHMAATkf95hBijDFAQIps_CljrY7cfUCax36RsGU9vHMakaqNys8flpfoZ32z0eID0KJ2STPZ2GH5xPG1alwz1Hp62UTKJuAYloprj_uyKumLdGq2pfUc7NXdljnUnLj3LSgPR9bjDEehNM6ZhUDcIxp6k6StsTsgfCFcB27k567Ffg.m3u8?u=1756878715
 #EXTINF:-1 group-title="港台頻道" ,中天新闻台
 http://222.128.55.152:9080/live/fc.m3u8
 #EXTINF:-1 group-title="港台頻道" ,年代新闻台
@@ -1156,8 +1150,6 @@ http://cdn8.163189.xyz/163189/lhxj
 http://cdn8.163189.xyz/163189/lhjd
 #EXTINF:-1 group-title="港台頻道" ,龙华电影
 http://cdn8.163189.xyz/163189/lhdy
-#EXTINF:-1 group-title="港台頻道" ,龙华卡通
-http://cdn8.163189.xyz/163189/lhkt
 #EXTINF:-1 group-title="港台頻道" ,中视
 http://74.91.26.218:82/live/ctv.m3u8
 #EXTINF:-1 group-title="港台頻道" ,中视新闻
@@ -1417,8 +1409,6 @@ http://223.111.150.99:6673/TW.php?id=国会频道2台
 
 #EXTINF:-1 group-title="会员频道" ,东森电影
 http://rihou.cc:555/tv/东森电影
-#EXTINF:-1 group-title="会员频道" ,东森洋片
-http://rihou.cc:555/tv/东森洋片
 #EXTINF:-1 group-title="会员频道" ,翡翠台4K(多音轨字幕)
 https://o11.163189.xyz/stream/tvb/fct4k/
 #EXTINF:-1 group-title="会员频道" ,翡翠台(多音轨字幕)
