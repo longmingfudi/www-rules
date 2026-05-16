@@ -1,0 +1,16 @@
+#!name=Instagram No Ads
+#!desc=Remove Instagram Ads / Sponsored Posts
+#!author=ChatGPT
+#!system=ios
+
+[Script]
+http-response ^https?:\/\/i\.instagram\.com\/api\/v\d+\/feed\/ timeline_ads.js requires-body=true timeout=60
+http-response ^https?:\/\/i\.instagram\.com\/api\/v\d+\/discover\/.* timeline_ads.js requires-body=true timeout=60
+http-response ^https?:\/\/i\.instagram\.com\/api\/v\d+\/clips\/.* timeline_ads.js requires-body=true timeout=60
+http-response ^https?:\/\/i\.instagram\.com\/api\/v\d+\/stories\/.* timeline_ads.js requires-body=true timeout=60
+
+[MITM]
+hostname = i.instagram.com
+
+[Script]
+timeline_ads.js = type=http-response,pattern=^https?:\/\/i\.instagram\.com\/api\/v\d+\/.*,requires-body=true,max-size=0,script-path=https://raw.githubusercontent.com/ddgksf2013/Scripts/master/Instagram/InstagramAds.js
